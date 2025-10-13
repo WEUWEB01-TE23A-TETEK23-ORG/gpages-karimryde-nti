@@ -17,5 +17,19 @@
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+  "extensions.allowed": {
+    "emmanuelbeziat.vscode-great-icons": true,
+    "chrisdias.vscode-opennewinstance": true,
+    "k--kato.docomment": true,
+    "eliostruyf.vscode-hide-comments": true,
+    "angelo-breuer.clock": true,
+    "GitHub.copilot": false
+  },
 }
